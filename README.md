@@ -4,7 +4,9 @@ These files are designed to demonstrate my proficiency in Excel, with a focus on
 Walkthroughs:
 
 Capacity by Plant:
-   &nbsp; On the task worksheet cell A5 can be manipulated to one of the following values {Press, Melt, Cut} and the chart updates.
+   &nbsp;&nbsp;
+   &nbsp;&nbsp;
+   On the task worksheet cell A5 can be manipulated to one of the following values {Press, Melt, Cut} and the chart updates.
 
 Constraining Model:
     &nbsp;&nbsp;
